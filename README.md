@@ -4,7 +4,7 @@ Meu nome é Roger Bica. Entusiasta por produtos digitais, trabalho em startups e
 
 Em 2023 comecei a estudar programação backend para complementar minhas atividades como Product Owner e estou super empolgado com os conhecimentos adquiridos.
 
-## Minhas skills:
+## Minhas skills
 
 - JavaScript
 - Node.js
