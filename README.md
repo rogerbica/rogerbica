@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Roger 👋
 
 <!--
-**rogerbica/rogerbica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Roger Bica. Entusiasta por produtos digitais, trabalho em startups em crescimento desde 2018. Venho trabalhando com Product Management experimentando as mais diversas soluções para o crescimento e escalabilidade de negócios desde 2021.
 
-Here are some ideas to get you started:
+Em 2023 comecei a estudar programação backend para complementar minhas atividades como Product Owner e estou super empolgado com os conhecimentos adquiridos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas skills:
+
+- JavaScript
+- Node.js
+
+## Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/rogerbica/)
