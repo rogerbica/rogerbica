@@ -1,4 +1,4 @@
-### Olá, eu sou o Roger 👋
+## Olá, eu sou o Roger 👋
 
 Meu nome é Roger Bica. Entusiasta por produtos digitais, trabalho em startups em crescimento desde 2018. Venho trabalhando com Product Management experimentando as mais diversas soluções para o crescimento e escalabilidade de negócios desde 2021.
 
